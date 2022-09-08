@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning to **be a front-end developer**
 
+- 🪄 I'm interested in **UX/UI Design**
+
 - 🎓 I'm studying 3rd year at **SIT KMUTT**
 
 - 📫 How to reach me **tanyakon.pleng@gmail.com**
