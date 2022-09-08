@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanyakorn</h1>
 <h3 align="center">The person who like Front-end</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pisenuta" alt="pisenuta" /></a> </p>
 
 - 🌱 I’m currently learning **to be a front-end developer**
 
