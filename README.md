@@ -34,3 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pisenuta&show_icons=true&locale=en&layout=compact" alt="pisenuta" />
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pisenuta&show_icons=true&locale=en" alt="pisenuta" /></p>
+
+<h2>✨ Other Stuff</h2>
+<li> 🎂 <a href="https://pisenuta.carrd.co/">My resume</a> </li>
