@@ -8,7 +8,7 @@
 
 - 🪄 I'm interested in **UX/UI Design**
 
-- 🎓 I'm studying 3rd year at **SIT KMUTT**
+- 🎓 I'm Junior student 3rd year at **SIT KMUTT**
 
 - 📫 How to reach me **tanyakon.pleng@gmail.com**
 
