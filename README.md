@@ -32,6 +32,7 @@
   </tr>
 </table>
 <h2 align="left">🐇 Other Skill</h2>
+<h3>UX/UI Prototype</h3>
 <li><a href="https://www.figma.com/proto/R3rYIPHpAVxgVsknJwmJ7J/What-The-Food?node-id=284%3A2&starting-point-node-id=284%3A2">What The Food Application</a></li>
 <li><a href="https://www.figma.com/proto/ybDEVleRn8C7v4M6ilHd5X/BIKE?node-id=10%3A3&starting-point-node-id=10%3A3">Bike Man Application</a></li>
 <p align="center">
