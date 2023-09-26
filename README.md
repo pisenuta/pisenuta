@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pisenuta&label=Profile%20views&color=0e75b6&style=flat" alt="pisenuta" /> </p>
 <h2 align="left">🧚🏻‍♀️About Me</h2>
 
-- 🌱 I’m currently learning to **be a front-end developer**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🌱 I’m currently learning to **be a front-end developer**
 
-- 🪄 I'm interested in **UX/UI Design**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🪄 I'm interested in **UX/UI Design**
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🎓 I'm Senior student 4rd year at **SIT KMUTT**
 
-- 🎓 I'm Senior student 4rd year at **SIT KMUTT**
-
-- 📫 How to reach me **tanyakon.pleng@gmail.com**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 📫 How to reach me **tanyakon.pleng@gmail.com**
 
 <h2 align="left">👩🏻‍💻 Skills</h2>
 <h3 align="left"> FrontEnd </h3>
