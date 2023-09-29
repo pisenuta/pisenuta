@@ -2,7 +2,7 @@
 <h4 align="center">Cat person who want to be Front-end developer ฅ•ﻌ•ฅ</h4>
 <p align="center"><img src="https://cliply.co/wp-content/uploads/2021/09/142109670_SAD_CAT_400.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pisenuta&label=Profile%20views&color=0e75b6&style=flat" alt="pisenuta" /> </p>
-<h2 align="left">🧚🏻‍♀️About Me</h2>
+<h2 align="left">🧚🏻‍♀️ About Me</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🌱 I’m currently learning to **be a front-end developer**
 
