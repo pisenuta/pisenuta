@@ -35,8 +35,8 @@
 
 <h2 align="left">🐇 Other Skill</h2>
 <h3>UX/UI Prototype</h3>
-<li><a href="https://www.figma.com/proto/R3rYIPHpAVxgVsknJwmJ7J/What-The-Food?node-id=284%3A2&starting-point-node-id=284%3A2">What The Food Application</a></li>
-<li><a href="https://www.figma.com/proto/ybDEVleRn8C7v4M6ilHd5X/BIKE?node-id=10%3A3&starting-point-node-id=10%3A3">Bike Man Application</a></li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ <a href="https://www.figma.com/proto/R3rYIPHpAVxgVsknJwmJ7J/What-The-Food?node-id=284%3A2&starting-point-node-id=284%3A2">What The Food Application</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ <a href="https://www.figma.com/proto/ybDEVleRn8C7v4M6ilHd5X/BIKE?node-id=10%3A3&starting-point-node-id=10%3A3">Bike Man Application</a>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pisenuta&show_icons=true&locale=en&layout=compact" alt="pisenuta" />
 </p>
@@ -46,4 +46,4 @@
 <a href="https://www.facebook.com/tanyakon.thalaengdee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="than" height="30" width="40" /></a>
 <a href="https://instagram.com/pisenuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pisenuta" height="30" width="40" /></a>
 <h2>✨ Other Stuff</h2>
-<li> 🎂 <a href="https://pisenuta.carrd.co/">My resume</a> </li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🎂 <a href="https://pisenuta.carrd.co/">My resume</a>
