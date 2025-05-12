@@ -42,7 +42,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pisenuta&show_icons=true&locale=en&layout=compact" alt="pisenuta" />
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pisenuta&show_icons=true&locale=en" alt="pisenuta" /></p>
-
-<h2 align="left">🎧 Contact</h2>
-<a href="https://www.facebook.com/tanyakon.thalaengdee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="than" height="30" width="40" /></a>
-<a href="https://instagram.com/pisenuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pisenuta" height="30" width="40" /></a>
