@@ -8,8 +8,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🪄 I'm interested in **UX/UI Design**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 🎓 I'm Senior student 4rd year at **SIT KMUTT**
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♡ 📫 How to reach me **thanyakorn.thalaengdi@gmail.com**
 
 <h2 align="left">👩🏻‍💻 Skills</h2>
